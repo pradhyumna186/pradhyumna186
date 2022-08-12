@@ -7,18 +7,18 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Drishti+Rai;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Pradhyumna+Reddy;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
 </p>
 
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/drishti-r-b13310202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://https://www.linkedin.com/in/pradhyumna186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 </p>
 <br>
 
-I'm a 2nd year undergraduate student in Computer Science with an interest in App Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.
+I'm a 3rd year undergraduate student in Computer Science with an interest in App Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.
 <br>
 <br>
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
@@ -27,7 +27,7 @@ I'm a 2nd year undergraduate student in Computer Science with an interest in App
 - 🔭 I’m currently working on Outlay <br>
 - 🌱 I’m currently learning React <br>
 - 👯 I’m looking to collaborate on Frontend Projects <br>
-- 📫 How to reach me: drishtiskn00@gmail.com <br>
+- 📫 How to reach me: pradhyumna186@gmail.com <br>
 
 <br><br>
 
