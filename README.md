@@ -1,18 +1,18 @@
-# Hi there, I'm Pradhyumna! 👋
+# Hi there, I'm Pradhyumna! �
 
 **Graduate Student | AI/ML Researcher | Full-Stack Developer**
 
 I'm passionate about building scalable solutions that bridge the gap between cutting-edge AI research and real-world applications. Currently pursuing my Master's in Computer Science at the University of Florida with a focus on AI/ML optimization and system architecture.
 
-## 🎓 About Me
+##  About Me
 
-- 🔭 Currently working on **AI-powered applications** and **scalable system architectures**
-- 🎓 MS Computer Science @ University of Florida (GPA: 3.93) - Dec 2025
-- 🌱 Specializing in **LLM optimization**, **machine learning**, and **full-stack development**
-- 📍 Based in Gainesville, FL
-- 💡 Passionate about solving complex problems through innovative technology solutions
+-  Currently working on **AI-powered applications** and **scalable system architectures**
+-  MS Computer Science @ University of Florida (GPA: 3.93) - Dec 2025
+-  Specializing in **LLM optimization**, **machine learning**, and **full-stack development**
+-  Based in Gainesville, FL
+-  Passionate about solving complex problems through innovative technology solutions
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -30,23 +30,23 @@ I'm passionate about building scalable solutions that bridge the gap between cut
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏪 [StoneRidge Marketplace](https://github.com/pradhyumna186/stoneridge-marketplace)
+###  [StoneRidge Marketplace](https://github.com/pradhyumna186/stoneridge-marketplace)
 **Java • Spring Boot • PostgreSQL • WebSocket**
 - Full-stack community marketplace supporting 500+ concurrent users
 - JWT authentication with BCrypt encryption and device fingerprinting
 - Real-time messaging system with comprehensive API documentation
 - **Impact**: 95% reduction in unauthorized access attempts
 
-### 💰 [IntelliFinance](https://github.com/pradhyumna186/intellifinance)
+###  [IntelliFinance](https://github.com/pradhyumna186/intellifinance)
 **React • FastAPI • PostgreSQL • Ollama AI**
 - AI-powered personal finance tracker with intelligent PDF parsing
 - Supports 6+ major banking institutions with 85% categorization accuracy
 - Machine learning pipeline that adapts to user corrections
 - Secure JWT-based authentication system
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Software Developer Intern @ Superstars, Inc
 *Aug 2024 - Present*
@@ -58,21 +58,21 @@ I'm passionate about building scalable solutions that bridge the gap between cut
 - **Network Analysis**: Analyzed 500+ telecom tower locations using Cassandra and Gremlin
 - **Digital Twin Development**: Contributed to proof-of-concept with database optimization strategies
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pradhyumna186&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumna186&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🌟 What I'm Working On
+##  What I'm Working On
 
-- 🔬 **AI/ML Research**: Exploring LLM optimization techniques and their practical applications
-- 🏗️ **Scalable Systems**: Building robust architectures that can handle enterprise-level traffic
-- 📱 **Mobile Development**: Creating cross-platform applications with Flutter
-- 🤖 **Intelligent Automation**: Developing AI-powered solutions for everyday problems
+-  **AI/ML Research**: Exploring LLM optimization techniques and their practical applications
+-  **Scalable Systems**: Building robust architectures that can handle enterprise-level traffic
+-  **Mobile Development**: Creating cross-platform applications with Flutter
+-  **Intelligent Automation**: Developing AI-powered solutions for everyday problems
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I'm always interested in collaborating on innovative projects and discussing the latest in AI/ML and software development!
 
