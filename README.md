@@ -6,7 +6,7 @@ I'm passionate about building scalable solutions that bridge the gap between cut
 
 ##  About Me
 
--  Currently a Software Engineer Intern at SuperStars Inc**
+-  Currently a Software Engineer Intern at **SuperStars Inc**
 -  MS Computer Science @ University of Florida (GPA: 3.93) - Dec 2025
 -  Specializing in **full-stack development**, **LLM optimization** and **machine learning**
 -  Passionate about solving complex problems through innovative technology solutions
