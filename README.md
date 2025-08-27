@@ -1,15 +1,14 @@
-# Hi there, I'm Pradhyumna! �
+# Hi there, I'm Pradhyumna! 
 
-**Graduate Student | AI/ML Researcher | Full-Stack Developer**
+**Graduate Student | Full-Stack Developer**
 
-I'm passionate about building scalable solutions that bridge the gap between cutting-edge AI research and real-world applications. Currently pursuing my Master's in Computer Science at the University of Florida with a focus on AI/ML optimization and system architecture.
+I'm passionate about building scalable solutions that bridge the gap between cutting-edge AI research and real-world applications. Currently pursuing my Master's in Computer Science at the University of Florida with a focus on microservice system architecture and AI/ML integration to deliver scalable solutions.
 
 ##  About Me
 
--  Currently working on **AI-powered applications** and **scalable system architectures**
+-  Currently a Software Engineer Intern at SuperStars Inc**
 -  MS Computer Science @ University of Florida (GPA: 3.93) - Dec 2025
--  Specializing in **LLM optimization**, **machine learning**, and **full-stack development**
--  Based in Gainesville, FL
+-  Specializing in **full-stack development**, **LLM optimization** and **machine learning**
 -  Passionate about solving complex problems through innovative technology solutions
 
 ##  Tech Stack
@@ -67,10 +66,10 @@ I'm passionate about building scalable solutions that bridge the gap between cut
 
 ##  What I'm Working On
 
--  **AI/ML Research**: Exploring LLM optimization techniques and their practical applications
 -  **Scalable Systems**: Building robust architectures that can handle enterprise-level traffic
 -  **Mobile Development**: Creating cross-platform applications with Flutter
 -  **Intelligent Automation**: Developing AI-powered solutions for everyday problems
+-  **AI/ML Research**: Exploring LLM optimization techniques and their practical applications
 
 ##  Let's Connect!
 
