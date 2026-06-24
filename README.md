@@ -1,83 +1,89 @@
-# Hi there, I'm Pradhyumna! 
+# Hi, I'm Pradhyumna 👋
 
-**Graduate Student | Full-Stack Developer**
+**Software Engineer — Backend & AI Systems**
 
-I'm passionate about building scalable solutions that bridge the gap between cutting-edge AI research and real-world applications. Currently pursuing my Master's in Computer Science at the University of Florida with a focus on microservice system architecture and AI/ML integration to deliver scalable solutions.
+I build backend services and AI-powered developer tools — Spring Boot / FastAPI systems on one side, agentic LLM workflows on the Anthropic Claude API on the other. M.S. Computer Science, University of Florida (GPA 3.92), graduated Dec 2025. **Open to full-time software engineering roles.**
 
-##  About Me
-
--  Currently a Software Engineer Intern at **SuperStars Inc**
--  MS Computer Science @ University of Florida (GPA: 3.93) - Dec 2025
--  Specializing in **full-stack development**, **LLM optimization** and **machine learning**
--  Passionate about solving complex problems through innovative technology solutions
-
-##  Tech Stack
-
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-##  Featured Projects
-
-###  [StoneRidge Marketplace](https://github.com/pradhyumna186/stoneridge-marketplace)
-**Java • Spring Boot • PostgreSQL • WebSocket**
-- Full-stack community marketplace supporting 500+ concurrent users
-- JWT authentication with BCrypt encryption and device fingerprinting
-- Real-time messaging system with comprehensive API documentation
-- **Impact**: 95% reduction in unauthorized access attempts
-
-###  [IntelliFinance](https://github.com/pradhyumna186/intellifinance)
-**React • FastAPI • PostgreSQL • Ollama AI**
-- AI-powered personal finance tracker with intelligent PDF parsing
-- Supports 6+ major banking institutions with 85% categorization accuracy
-- Machine learning pipeline that adapts to user corrections
-- Secure JWT-based authentication system
-
-##  Professional Experience
-
-### Software Developer Intern @ Superstars, Inc
-*Aug 2024 - Present*
-- **Optimized Flutter performance**: Resolved critical memory leaks, reducing app crashes by 60%
-- **Enhanced user experience**: Improved application load times by 50%
-
-### Machine Learning Intern @ Jio Platforms Limited
-*May 2023 - Jul 2023*
-- **Network Analysis**: Analyzed 500+ telecom tower locations using Cassandra and Gremlin
-- **Digital Twin Development**: Contributed to proof-of-concept with database optimization strategies
-
-##  GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumna186&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-##  What I'm Working On
-
--  **Scalable Systems**: Building robust architectures that can handle enterprise-level traffic
--  **Mobile Development**: Creating cross-platform applications with Flutter
--  **Intelligent Automation**: Developing AI-powered solutions for everyday problems
--  **AI/ML Research**: Exploring LLM optimization techniques and their practical applications
-
-##  Let's Connect!
-
-I'm always interested in collaborating on innovative projects and discussing the latest in AI/ML and software development!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradhyumna186)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradhyumna186)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhyumnareddymadhulapally@gmail.com)
+### What I focus on
+- **Backend & systems** — Java / Kotlin / Spring Boot, Python / FastAPI, REST & GraphQL, microservices, performance profiling and optimization
+- **Agentic AI** — Anthropic Claude API, prompt & context engineering, LangGraph multi-agent systems, RAG, MCP, LLM-as-judge evaluation
+- **LLM internals** — implemented GPT-2 from scratch (multi-head attention, transformer blocks, training loop) to understand what's actually under the hood
 
 ---
-⭐️ From [pradhyumna186](https://github.com/pradhyumna186)
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Backend & AI**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude_API-191919?style=flat&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [DevScan — AI Code-Review Agent](https://github.com/pradhyumna186/devscan) <!-- TODO: confirm repo URL -->
+**Python · FastAPI · Anthropic Claude API · Strawberry GraphQL · Redis · GitHub Actions**
+- Uses the Anthropic Claude API to analyze pull-request diffs across diverse, unfamiliar codebases and generate structured, context-aware review feedback.
+- Engineered prompts and structured-output schemas with an **LLM-as-judge** evaluation pipeline that catches hallucinations before anything is posted.
+- Deployed on Cloud Run with multi-tier Redis caching; shipped with automated tests and CI/CD.
+
+### [StockSense — Multi-Agent LLM System](https://github.com/pradhyumna186/stocksense) <!-- TODO: confirm repo URL -->
+**Python · LangGraph · FastAPI · PostgreSQL · GPT-4o**
+- Multi-agent LangGraph system with dynamic tool/function calling and self-reflection, orchestrating LLM reasoning over live data with conditional branching and state management.
+- Optimized prompts and context windows to cut per-request LLM cost ~35% while preserving quality; added an LLM-as-judge framework for citation accuracy.
+
+---
+
+## 💼 Experience
+
+**Open Source Software Developer (Android)** · Greenstand · *Jan 2026 – Present*
+Refactored a localization engine in a large open-source codebase to fix a critical UI desync bug and resolved an intermittent production crash via dependency-injection scope management (Koin).
+
+**Software Engineer Intern (Performance & Backend)** · Superstars, Inc. · *Aug – Dec 2025*
+Profiled and optimized production systems (JProfiler) and built fault-tolerant Java / Spring Boot microservices with automated testing and CI/CD.
+
+**Machine Learning Intern** · Jio Platforms Ltd. · *Jul – Sep 2023*
+Built distributed PySpark / XGBoost data pipelines processing 10M+ daily records.
+
+---
+
+## 🎓 Education
+- **M.S. Computer Science** — University of Florida · 2024 – 2025 · GPA 3.92
+- **B.Sc. Computer Science** — Bennett University, India · 2020 – 2024 · GPA 3.83
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradhyumna186)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradhyumna186)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhyumna186@gmail.com)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumna186&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
